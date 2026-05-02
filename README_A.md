@@ -84,8 +84,6 @@ chmod +x main.sh suma.sh resta.sh multiplicacion.sh division.sh
 bash main.sh
 ```
 
->  **Importante:** Usa siempre `bash main.sh` y **nunca** `sh main.sh`.
-> El comando `sh` usa un shell básico (dash) que no soporta la sintaxis de Bash.
 
 ---
 
